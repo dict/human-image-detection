@@ -1,9 +1,3 @@
-"""YOLOv5 PyTorch Hub models https://pytorch.org/hub/ultralytics_yolov5/
-
-Usage:
-    import torch
-    model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
-"""
 
 import torch
 
