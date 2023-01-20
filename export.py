@@ -1,8 +1,3 @@
-"""Export a YOLOv5 *.pt model to TorchScript, ONNX, CoreML formats
-
-Usage:
-    $ python path/to/export.py --weights yolov5s.pt --img 640 --batch 1
-"""
 
 import argparse
 import sys
